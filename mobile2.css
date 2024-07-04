@@ -1,0 +1,25 @@
+@media screen and (max-width: 480px) {
+    
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+
+    .logo{
+        display: none;
+    }
+
+    .rodape{
+        margin-top: 150px;
+    }
+
+    .clique {
+        font-size: 18px;
+        padding: 175px;
+       
+    }
+}
