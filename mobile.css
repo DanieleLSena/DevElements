@@ -16,4 +16,10 @@
     .rodape{
         margin-top: 150px;
     }
+
+    .clique {
+        font-size: 18px;
+        padding: 200px;
+        margin-top: 100px;
+    }
 }
